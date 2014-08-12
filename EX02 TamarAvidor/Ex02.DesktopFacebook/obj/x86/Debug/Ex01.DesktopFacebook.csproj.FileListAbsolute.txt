@@ -1,0 +1,248 @@
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\bin\Debug\Facebook.dll
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\bin\Debug\FbGraphApiWrapper.dll
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex01 Main\Final\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\C13 EX01 TamarAvidor 301023925 OrenLasko 305697880\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\05071652\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\06081652\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\0808131440\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1108130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1208130900\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1208130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1308130900Composition version for proxy\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Tamara\Design patterns\Ex02 Main\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete control\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\oren\Desktop\1308131300 with seperated form for concrete  control Oren Version\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.exe
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.exe
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\bin\Debug\Ex01.DesktopFacebook.pdb
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormComboBoxViewableControl.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormEmailManager.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormMain.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormCheckIns.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriendEvents.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormFriends.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormNewsFeed.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormPhotosFromAlbum.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserAlbums.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserEvents.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserInfo.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.FormUserLogin.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.MyPictureBoxAlbum.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\Ex01.DesktopFacebook.Properties.Resources.resources
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tamar\Desktop\Ready To Send\Ex01.DesktopFacebook\obj\x86\Debug\GenerateResource.write.1.tlog

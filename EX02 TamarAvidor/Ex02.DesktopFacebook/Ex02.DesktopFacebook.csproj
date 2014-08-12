@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22A86702-7920-4714-9D45-8607735AEA2D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ex01.DesktopFacebook</RootNamespace>
+    <AssemblyName>Ex01.DesktopFacebook</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Facebook">
+      <HintPath>..\..\..\..\..\code examples\01_FB01_BasicFacebookFeatures.V6.2.1.3\FBApi\Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="FbGraphApiWrapper">
+      <HintPath>..\..\..\..\..\code examples\01_FB01_BasicFacebookFeatures.V6.2.1.3\FBApi\FbGraphApiWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormComboBoxViewableControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormComboBoxViewableControl.Designer.cs">
+      <DependentUpon>FormComboBoxViewableControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmailManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmailManager.Designer.cs">
+      <DependentUpon>FormEmailManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IEmailBuilder.cs" />
+    <Compile Include="IEmailComposer.cs" />
+    <Compile Include="FormUserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserLogin.Designer.cs">
+      <DependentUpon>FormUserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCheckIns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCheckIns.Designer.cs">
+      <DependentUpon>FormCheckIns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFriendEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFriendEvents.Designer.cs">
+      <DependentUpon>FormFriendEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFriends.Designer.cs">
+      <DependentUpon>FormFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewsFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewsFeed.Designer.cs">
+      <DependentUpon>FormNewsFeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhotosFromAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhotosFromAlbum.Designer.cs">
+      <DependentUpon>FormPhotosFromAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserAlbums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserAlbums.Designer.cs">
+      <DependentUpon>FormUserAlbums.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserEvents.Designer.cs">
+      <DependentUpon>FormUserEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserInfo.Designer.cs">
+      <DependentUpon>FormUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericSingleton.cs" />
+    <Compile Include="IViewableControl.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="MyControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyEmail.cs" />
+    <Compile Include="MyLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyPictureBoxAlbum.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyPictureBoxGeneral.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyPictureBoxPhoto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyControlsRepository.cs" />
+    <Compile Include="MyProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrototypeRepository.cs" />
+    <Compile Include="SMTPBuilder.cs" />
+    <Compile Include="SMTPComposer.cs" />
+    <EmbeddedResource Include="FormComboBoxViewableControl.resx">
+      <DependentUpon>FormComboBoxViewableControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmailManager.resx">
+      <DependentUpon>FormEmailManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCheckIns.resx">
+      <DependentUpon>FormCheckIns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFriendEvents.resx">
+      <DependentUpon>FormFriendEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFriends.resx">
+      <DependentUpon>FormFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewsFeed.resx">
+      <DependentUpon>FormNewsFeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhotosFromAlbum.resx">
+      <DependentUpon>FormPhotosFromAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserAlbums.resx">
+      <DependentUpon>FormUserAlbums.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserEvents.resx">
+      <DependentUpon>FormUserEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserInfo.resx">
+      <DependentUpon>FormUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserLogin.resx">
+      <DependentUpon>FormUserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyPictureBoxAlbum.resx">
+      <DependentUpon>MyPictureBoxAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\251093-facebook-fanart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebookpalette1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\251093-facebook-fanartBACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogginButtonBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\revised-facebook1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googleicon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
